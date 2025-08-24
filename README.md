@@ -1,4 +1,10 @@
-## Hi there 👋
+# Olá, eu sou Francisco 👋
+
+Sou estudante de Ciência da Computação e apaixonado por desenvolvimento de software. 
+Adoro aprender novas tecnologias e compartilhar conhecimento no GitHub.
+
+Atualmente, estou aprimorando minhas habilidades em **Java, Python e desenvolvimento web**, além de explorar o mundo da **análise de dados e back-end**.  
+Gosto de compartilhar conhecimento e experiências, seja através de projetos no GitHub ou colaborando em comunidades de tecnologia.
 
 <!--
 **franciscomaath/franciscomaath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
