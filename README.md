@@ -4,6 +4,13 @@
 💻 Apaixonado por desenvolvimento de software, análise de dados e soluções criativas  
 🛠️ Atualmente aprimorando habilidades em **Java**, **Python** e **desenvolvimento web**  
 📊 Explorando o mundo de **back-end** e **análise de dados**  
+
+## 📫 Contato
+
+- ✉️ Email: francisco@email.com  
+- 🔗 LinkedIn: [Francisco Matheus](https://www.linkedin.com/in/franciscomatheus/)  
+- 🐦 Twitter: [@franciscomatheus](https://twitter.com/franciscomatheus)  
+
 <!--
 **franciscomaath/franciscomaath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
