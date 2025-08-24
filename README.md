@@ -7,9 +7,8 @@
 
 ## 📫 Contato
 
-- ✉️ Email: francisco@email.com  
-- 🔗 LinkedIn: [Francisco Matheus](https://www.linkedin.com/in/franciscomatheus/)  
-- 🐦 Twitter: [@franciscomatheus](https://twitter.com/franciscomatheus)  
+- ✉️ Email: franciscomatt113@hotmail.com  
+- 🔗 LinkedIn: [Francisco Matheus](https://www.linkedin.com/in/franciscomath/)  
 
 <!--
 **franciscomaath/franciscomaath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
