@@ -1,26 +1,48 @@
-# Olá, eu sou o Francisco 👋
+# 👋 Olá, eu sou o Francisco Matheus
 
-🎓 Estudante de Ciência da Computação  
-💻 Apaixonado por desenvolvimento de software, análise de dados e soluções criativas  
-🛠️ Atualmente aprimorando habilidades em **Java**, **Python** e **desenvolvimento web**  
-📊 Explorando o mundo de **back-end** e **análise de dados**  
+🎓 Estudante de Ciência da Computação (UFMA)  
+💻 Estagiário Back-end Java na CitieSoft  
+📍 São Luís - MA | 🇧🇷
 
-## 📫 Contato
+---
 
-- ✉️ Email: franciscomatt113@hotmail.com  
-- 🔗 LinkedIn: [Francisco Matheus](https://www.linkedin.com/in/franciscomath/)  
+## 🚀 Sobre mim
 
-<!--
-**franciscomaath/franciscomaath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação e atualmente atuo como **Estagiário Back-end Java**, com foco no desenvolvimento de aplicações, criação e integração de APIs e uso de bancos de dados relacionais.
 
-Here are some ideas to get you started:
+Tenho experiência prévia em **suporte técnico**, o que me deu uma base sólida em resolução de problemas, entendimento de sistemas corporativos e documentação de processos. Hoje, estou totalmente focado em evoluir como desenvolvedor, seguindo boas práticas de código, versionamento e colaboração em equipe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também participo de um projeto de **Iniciação Científica no Laboratório de Inteligência Interativa (LINT/UFMA)**, envolvendo análise de dados e aplicações de IA.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Back-end**
+- Java (Spring Boot)
+- Python (Flask)
+- PHP
+
+**Bancos de Dados**
+- PostgreSQL
+
+---
+
+## 📌 Áreas de Interesse
+
+- Desenvolvimento Back-end
+- Java & Ecossistema Spring
+- APIs e Integrações
+- Arquitetura de Software
+- Dados e IA aplicada
+
+---
+
+## 📫 Como me encontrar
+
+- LinkedIn: [linkedin.com/in/franciscomath](https://www.linkedin.com/in/franciscomath)
+- E-mail: franciscomatt113@hotmail.com
+
+---
+
+⭐ Sempre aberto a aprender, colaborar e construir soluções que gerem impacto real.
